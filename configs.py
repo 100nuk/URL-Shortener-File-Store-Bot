@@ -8,8 +8,8 @@ class Config(object):
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", ""))
-  SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "GreyMatterslinks.in")
-  SHORTLINK_API = os.environ.get('SHORTLINK_API', "20eb8456008878c0349fc79d40fb4d1634cccf12")
+  SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "onepagelink.in")
+  SHORTLINK_API = os.environ.get('SHORTLINK_API', "fa5a96a72e813394d262b8c3379ba4d7d6755e52")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", ""))
   DATABASE_URL = os.environ.get("DATABASE_URL", "")
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
@@ -34,13 +34,13 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 ╰──────[ 😎 ]───────────⍟
 """
   ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [@PredatorHackerzZ](https://github.com/PredatorHackerzZ)
+🧑🏻‍💻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: [@R_KOHLI]
  
  I am Super noob Please Support My Hard Work.
 
-[Donate Me](https://t.me/DonateXrobot) or MrAbhi2k3@apl
+[Donate Me](https://t.me/KK_BOTS)
 """
   HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent FileStore Bot.
 
-Join: @GreyMatter_Bots"""
+Join: @movie_a1"""
