@@ -1,4 +1,4 @@
-# Updated By @MrAbhi2k3
+# Updated By @R_KOHLI
 
 import asyncio
 import requests
