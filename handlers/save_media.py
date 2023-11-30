@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005 | @PredatorHackerzZ
+# (c) @R_KOHLI | @KK_BOTS
 
 import asyncio
 import requests
